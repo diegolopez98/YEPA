@@ -6,7 +6,7 @@ public class saludo {
 		// TODO Auto-generated method stub
 		System.out.println("Buenas tardes a todoos");
 		System.out.println("Hola me llamo CArlos y soy un maco al csgo");
-		System.out.println("Hola, soy Diego y la tengo pequeña.");
+		System.out.println("Hola tengo pequeña.");
 
 	}
 
