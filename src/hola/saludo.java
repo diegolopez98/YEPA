@@ -7,6 +7,7 @@ public class saludo {
 		System.out.println("Buenas tardes a todoos");
 		System.out.println("Hola me llamo CArlos y soy un maco al csgo");
 		System.out.println("Hola tengo pequeña.");
+		System.setOut("prueba");
 
 	}
 
